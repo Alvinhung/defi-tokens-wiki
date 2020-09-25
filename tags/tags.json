@@ -77,5 +77,10 @@
     "defi": {
         "name": "Defi",
         "description": null
+    },
+    "perpetual": {
+        "name": "Perpetual",
+        "description": "Tokens that trustlessly recreate decentralized perpetual contracts on other assets",
+        "emoji":"🔄"
     }
 }

@@ -4,5 +4,26 @@
     "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
     "decimals": 18,
     "dharmaVerificationStatus": "VERIFIED",
-    "tags": ["yield-farming"]
+    "tags": ["yield-farming","amm","synthetics","perpetual","defi"],
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "http://twitter.com/perpprotocol"
+        },
+        {
+            "type": "website",
+            "value": "http://perp.fi/"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.com/invite/mYKKRTn"
+        }
+        {
+            "type": "telegram",
+            "value": "https://t.me/perpetualprotocol"
+        }
+    ],
+    "description": "Perpetual Protocol is a decentralized perpetual contract protocol for every asset, made possible by a Virtual Automated Market Maker (henceforth referred to as a “vAMM” or “vAMMs”).
+    ",
+
 }
